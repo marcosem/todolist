@@ -7,4 +7,3 @@ This application was made in 3 days following the studies from Rocketset Java Sp
 - Database simple managements (Model, Repository, CRUD);
 - Exceptions Errors handlering;
 - Deploy script;
-
